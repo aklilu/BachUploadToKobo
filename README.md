@@ -33,9 +33,6 @@ git clone https://github.com/aklilu/BachUploadToKobo.git
 ```shell
 cd BachUploadToKobo
 ```
-MYTOKEN = "b49f88e738bdc4bdbd7052047ca4cc81e24ae69c"
-KPIASSETUID= "a4LH6mTHayEyoQW5MrrPLf"
-
 3. Place your xls file in the `data` directory. 
 
 4. Create a  `reposecrets.py` file (rename `reposecrets_temp.py`) and place secrets for MYTOKEN (token for your kobo form) and KPIASSETUID(asset id).
