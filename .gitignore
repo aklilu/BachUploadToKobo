@@ -1,0 +1,36 @@
+# IDE / Editors
+.vscode
+.vscode-server
+.vs
+.devcontainer
+.ssh
+.idea
+*.sublime-project
+*.sublime-workspace
+*.ipynb_checkpoints
+ 
+*.cache
+
+# Configuration, secrets, etc:
+.env
+
+
+# Local data files
+data/*
+
+
+# Logs / Cache / temporary files
+logs
+*.log
+npm-debug.log*
+.npm
+
+# Secrets
+reposecrets.py
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb
