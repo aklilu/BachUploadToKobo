@@ -38,7 +38,7 @@ KPIASSETUID= "a4LH6mTHayEyoQW5MrrPLf"
 
 3. Place your xls file in the `data` directory. 
 
-4. Create a  `reposecrets.py` file and place secrets for MYTOKEN (token for your kobo form) and KPIASSETUID(asset id).
+4. Create a  `reposecrets.py` file (rename `reposecrets_temp.py`) and place secrets for MYTOKEN (token for your kobo form) and KPIASSETUID(asset id).
 
 5. Run the script using the following command:
 
